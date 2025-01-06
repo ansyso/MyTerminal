@@ -1,0 +1,35 @@
+{
+  "name": "myterminal",
+  "version": "1.0.0",
+  "description": "A customizable Termux configuration with extra keys and shortcuts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/George-Codr/Myterminal.git"
+  },
+  "keywords": [
+    "termux",
+    "terminal",
+    "configuration",
+    "shortcuts",
+    "extra-keys"
+  ],
+  "author": "George Codr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/George-Codr/Myterminal/issues"
+  },
+  "homepage": "https://github.com/George-Codr/Myterminal#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "prettier": "^3.0.3"
+  }
+}
