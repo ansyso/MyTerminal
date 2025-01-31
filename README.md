@@ -1,6 +1,6 @@
 <h1 align="center">myTermux</h1>
 
-<p align="center">This is my personal configuration for my favorite Termux</p>
+<p align="center">This is my personal configuration for my favorite Terminal</p>
 
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg"></a>
@@ -47,7 +47,7 @@ pkg i -y git bc
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/mayTermux/myTermux.git
+git clone --depth=1 https://github.com/George-Codr/Myterminal.git
 ```
 
   </details>
@@ -58,7 +58,7 @@ git clone --depth=1 https://github.com/mayTermux/myTermux.git
 - Move to Folder
 
 ```bash
-cd myTermux
+cd Myterminal
 ```
 
 - export variable `COLUMNS` and `LINES`
