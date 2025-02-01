@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+export COLUMNS LINES
 HELPERS=(
   colors animation banner package switchcase
   dotfiles clone themes nvchad utility
