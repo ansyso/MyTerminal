@@ -1,4 +1,4 @@
-<h1 align="center">Myterminal</h1>
+<h1 align="center">MyTerminal</h1>
 
 <p align="center">This is my personal configuration for my favorite Terminal</p>
 
@@ -11,7 +11,7 @@
 
 > Click this thumbnail below to see video installation
 
-[![myTermux Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "myTermux - Installation")
+[![myTermux Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "MyTerminal - Installation")
 
 ## Installation Dependecies
 
@@ -41,13 +41,13 @@ pkg i -y git bc
 
   </details>
 
-## Installation myTermux
+## Installation MyTerminal
 
   <details open>
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/George-Codr/Myterminal.git
+git clone --depth=1 https://github.com/ansyso/Myterminal.git
 ```
 
   </details>
