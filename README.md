@@ -47,7 +47,7 @@ pkg i -y git bc
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/ansyso/Myterminal.git
+git clone --depth=1 https://github.com/ansyso/MyTerminal.git
 ```
 
   </details>
@@ -58,7 +58,7 @@ git clone --depth=1 https://github.com/ansyso/Myterminal.git
 - Move to Folder
 
 ```bash
-cd Myterminal
+cd MyTerminal
 ```
 
 - export variable `COLUMNS` and `LINES`
